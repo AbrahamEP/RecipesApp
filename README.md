@@ -11,7 +11,9 @@
 This is a basic recipes app. I use mockable.io to mock a unique endpoint that gives me a list of recipes that I tooked from https://www.themealdb.com/api.php.
 I'm leaving the endpoint running but if you have any issues testing my app please send me an email so I turn on the endpoint again.
 
-I couldn't implement and clean the code due the lack of time. I'm sorry about this.
+I couldn't implement all necessary features in the app due to lack of time. I'm sorry about this. 
+
+Here is what I did.
 
 ## Features
 
