@@ -26,15 +26,6 @@ Here is what I did.
 - iOS 15.5+
 - Xcode 13
 
-## Usage example
-
-```swift
-import EZSwiftExtensions
-ez.detectScreenShot { () -> () in
-    print("User took a screen shot")
-}
-```
-
 ## Contribute
 
 We would love you for the contribution to **YourLibraryName**, check the ``LICENSE`` file for more info.
